@@ -55,5 +55,18 @@ Frontend Specialization (Next.js)
 
 ## Future Scope
 - AI-based doctor recommendation
+
+## UI Designs
+<img width="1536" height="1024" alt="Login Page" src="https://github.com/user-attachments/assets/b8d7c348-040e-488a-bcb0-f34203081a65" />
+<img width="1536" height="1024" alt="Main Dashboard Page" src="https://github.com/user-attachments/assets/a5c4aab7-a2ea-4998-aba7-0695e94524f6" />
+<img width="1536" height="1024" alt="Details Page" src="https://github.com/user-attachments/assets/8e1aa3e4-6cdf-4745-99da-9b45be0bf894" />
+
+
+## State Tree Diagram
+<img width="1536" height="1024" alt="State Tree diagram" src="https://github.com/user-attachments/assets/f111d593-603f-4813-a87e-4c15bb38560e" />
+
+
+
+
 - Real-time notifications
 - Payment integration
